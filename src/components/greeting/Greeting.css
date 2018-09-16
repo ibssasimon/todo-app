@@ -7,6 +7,10 @@
   border-radius: 20px;
 }
 
+.greeting .container {
+  text-align: center;
+}
+
 .greeting .primaryGreeting {
   padding: 0 0 24px 0;
 }

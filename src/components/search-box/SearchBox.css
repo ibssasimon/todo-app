@@ -1,0 +1,13 @@
+.searchBox {
+  display: flex;
+  margin: 0 100px 16px 0;
+}
+
+.searchBox label {
+  display: flex-start;
+  padding: 8px 16px 0 16px;
+}
+
+.searchBox textarea {
+  display: flex-end;
+}
