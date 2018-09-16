@@ -1,0 +1,12 @@
+.greeting {
+  height: auto;
+  width: 600px;
+  padding: 16px;
+  font-size: 36px;
+  font-family: Arial, Helvetica, sans-serif;
+  border-radius: 20px;
+}
+
+.greeting .primaryGreeting {
+  padding: 0 0 24px 0;
+}
